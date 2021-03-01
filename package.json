@@ -24,7 +24,7 @@
     "babel-loader": "^8.0.5",
     "howler": "^2.1.2",
     "postprocessing": "^6.2.1",
-    "three": "^0.103.0",
+    "three": "^0.125.0",
     "webpack": "^4.30.0",
     "webpack-cli": "^3.3.0"
   }
